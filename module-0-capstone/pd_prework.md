@@ -1,62 +1,29 @@
 # Turing Career Development - Mod 0 Capstone
-## Developing Mindsets to Succeed
-_Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
 
-When you're transitioning careers, often many other aspects of your approach to work and life undergo a transition as well. Turing aims to be a place where you can work through these transitions successfully. While enrolled at Turing and during your subsequent job search, you'll be provided with tools and strategies to develop the professional skills necessary to enter a new career as a software developer. 
-
-The pre-work for career development is focused on introducing you to a set of mindsets that we at Turing believe will make you a successful programmer. These mindsets are:
-
-* Agency: Taking initiative and ownership over your learning and work
-* Empathy: Understanding and sharing others' emotions in order to relate to them 
-* Engagement: Active participation in community
-* Grit: A combination of perseverance and passion
-* Growth: A belief that your abilities can be developed through dedication, hard work, and resiliency
-
-Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-work while the other four mindsets will be introduced to you here. Your objectives in this pre-work are to:
-
-* Understand the non-coding aspects that go into being a successful programmer
-* Reflect on your current mindsets and build an understanding of new or differing mindsets 
-* Understand a strengths-based approach to development
-* Begin analyzing how your strengths apply to your development at Turing
-
-### Introduction to Strengths-based Development
-One tool we'll be using for your professional development at Turing is the [Pairin Survey](https://www.pairin.com/). This survey measures over 100 coachable and changeable skills. This activity invites you to begin building an understanding of how learning about and developing your strengths applies to your success in your new career. We will discuss the results of this survey more in-depth in your first professional development session at Turing. Follow the steps below to fulfill this part of the prework:
-
-Step 1: Take the survey using [this link](https://survey.pairin.com/signup/15960/student). It will prompt you to create an account when you take it. There are 2 sections for this survey:
-   * First section: Choose adjectives to answer _how you currently are_
-   * Second section: Choose adjectives to answer _how you would like to be_. The second section is marked as "optional," but it is highly recommended that you fill out this section in order to provide more data for you on how you'd like to grow. 
-
-  The survey should take you about 15-20 minutes. 
-
-Step 2: Read this post and watch this video to start building an understanding of your Pairin results (5 minutes total):
-
-   * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
-   * [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) (2.5 minute read)
-      
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know?
+   My greatest strength is that I am resilient.  I am in my mid 40s.  With that has come many experiences and challenges.  I've never known myself to shy away from a challenge.  I see challenges as opportunities to grow.  I see challenges through until the end; even if the end was not the desired result.  There is still much to gain in that failure.  Learn from your errors and try again!
    * How do you work best?
+   I work best when I value and understand the "why" or the "end goal".  I usually like to know the purpose or mission.  Sometimes, the purpose or mission will be unclear at first.  However, it may become clear during or at the end of the mission.  That is the rewarding part!  
    * What is your greatest area of improvement?
+   Self Confidence.  While I feel confident at many skills, I may lack confidence in weather or not I'm living a purpose driven life, a meaningful life or a life with intention.  In recent years I've tried to apply the skills I am confident in, to help others.  That seems to give me purpose and meaning.  
    * How do you hope to maximize your strengths for your new career in software development?
-   * How might knowing about your strengths and working preferences benefit you as a software developer? 
-   
- Step 4: Read Ta-Nehisi Coates' article, ["Getting Better at Difficult Things"](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/) and watch Kathy Sierra's keynote from [Fluent Conf 2015](https://www.youtube.com/watch?v=FKTxC9pl-WM)
- 
+   I'll continue to be resilient in my efforts, not just in understanding the challenges of learning how to be a programmer, but also in being a good team mate/co-worker sharing my strengths while also being willing to be on the receiving end of those concepts.
+   * How might knowing about your strengths and working preferences benefit you as a software developer?
+   Knowing what my needs are, as well as the needs of others, will allow me to identify the areas that I feel that I could be most beneficial and visa versa.  Another strength is knowing your weaknesses and to be open to allow other's stregnths to rise.
+
+
  Step 5: Please respond to the following questions in a reflection (4-6 sentences):
   * What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
+  1.1 Some of the efforts I make to manage my learning process are of course taking notes.  More importantly, re-taking notes.  In other words, re-writing the notes with better handwriting and in an organized matter.  It's also important to make the effort to ask questions when you don't understand something or when you are stuck on a problem.
+  1.2 I think the efforts described above are successful.  Are they the only path to success? Absolutely not.  There is a bonus in re-writting notes, as you are literally reviewing the lesson as you re-write!  The bonus in asking questions is that other's will likely benefit from the response.
+  1.3  Some challenges that I have found are not being able to take notes fast enough.  It can cause me to miss an important piece of instruction. Sometimes I'll be so interested in the instruction, I'll forget that I should be taking notes!
   * How do Sierra's and Coate's material relate to your current process for learning?
+  In regard to Coates' article, the struggle is the norm.  The struggle is always going to be there.  I may not ever "master" coding, for example, but rest assured, I'll always be learning and have the desire to learn.  Now, what stood out to me in Sierra's keynote was the idea of breaking down large pieces of work into small manageable pieces.  Baby steps!
   * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
+  My emotional state while at Turing, I can imagine, will have its ups and downs.  Accepting that there will be both failure and success in learning is paramount.  Failure can be a discouragement.  That is why it is important to be aware of your emotions and to have a healthy outlet to release those emotions.
   * How will you prepare yourself to be at your best with your learning process while at Turing?
- 
-## **Capstone submission directions:**
-In a gist, please:
-1. Include a screenshot of your Pairin top 4 results by following [these directions](https://gist.github.com/kannankumar/4c613cac6d9db896062a16e1cc57d3e5)
-2. Include your responses to the questions in Step 3.
-3. Include your responses to the questions in Step 5.
-
-Submit your gist in the survey **[here](https://sites.google.com/casimircreative.com/enrollment/mod-0-capstone-fka-pre-work?authuser=0)**
- 
-Optional further reading:
-   * [How the Pairin Survey compares to other assessments](https://github.com/turingschool/career-development-curriculum/blob/master/files/Survey%20Comparisons.pdf)
-   * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): (5 minute read)
-   * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): (6 minute read)
+  -Trusting in the process
+  -Monitor the process, what adjustments can I make to improve?
+  -Be open to new ideas and concepts (not just in learning style)
+  -Learn from my peers
